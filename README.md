@@ -6,7 +6,7 @@ DataAnalysis
 - **[Meriam Maged]**
 - **[Carol Amir]**  
 - **[Martina Marco]**  
-- **[Ali]**  
+- **[Ali Waleed]**  
 
 ---
 
@@ -62,9 +62,11 @@ The project does not include real-time data integration or deployment of models 
 * Prepare the dataset for analysis.
 
 **Tools:**
-
+* Excel
 * SQL
 * Python (pandas, Matplotlib)
+* Tableau
+* PowerBi
 
 **Deliverables:**
 
