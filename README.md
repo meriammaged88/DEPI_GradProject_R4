@@ -1,6 +1,4 @@
-# Store Sales Dataset Analysis
-DataAnalysis
----
+# Marketing Campain Analytics
 
 ##  Team Members
 - **[Meriam Maged]**
@@ -18,8 +16,23 @@ DataAnalysis
 
 ## 1. Project Overview
 
-This project focuses on analyzing a store sales dataset to extract meaningful insights that support business decision-making. The analysis covers data cleaning, exploratory analysis, and sales forecasting, followed by the development of an interactive visualization dashboard.
-The project is structured over four weeks, moving from raw data preparation to advanced analytics and final presentation.
+This project analyzes the impact of marketing campaigns on business sales performance across different advertising platforms and geographical regions.
+The main objective is to evaluate how marketing investments influence sales outcomes by examining campaign performance on multiple digital channels, including Facebook, LinkedIn, and Google Ads. The analysis also explores regional marketing spending patterns to understand how investments in different countries and regions contribute to overall sales growth.
+Through data analysis and visualization
+the project aims to:
+
+Measure the relationship between marketing spend and sales revenue.
+
+Compare the effectiveness of different marketing platforms.
+
+Identify high-performing and low-performing campaigns.
+
+Analyze regional differences in marketing performance.
+
+Generate actionable insights to support data-driven marketing decisions and budget allocation.
+
+
+By leveraging analytical techniques and interactive dashboards, this project helps stakeholders better understand marketing ROI and optimize future campaign strategies.
 
 ---
 
@@ -27,12 +40,12 @@ The project is structured over four weeks, moving from raw data preparation to a
 
 The main objectives of this project are to:
 
-* Build a well-structured data model suitable for analysis.
-* Clean and preprocess raw sales data to ensure accuracy and consistency.
-* Identify key factors affecting sales performance, such as product categories and regions.
-* Answer business-driven analytical questions using data analysis techniques.
-* Forecast future sales trends based on historical data.
-* Present insights clearly through visualizations and an interactive dashboard.
+* Analyze the relationship between marketing campaign spending and sales performance.
+* Evaluate the effectiveness of different advertising platforms such as Facebook, LinkedIn, and Google Ads.
+* Identify which marketing channels generate the highest return on investment (ROI).
+* Assess the impact of marketing activities across different regions and countries.
+* Detect trends and patterns in campaign performance over time.
+* Provide data-driven insights to support better marketing and budget allocation decisions.
 
 ---
 
@@ -40,14 +53,12 @@ The main objectives of this project are to:
 
 This project includes:
 
-* Data preprocessing and cleaning using SQL and Python.
-* Exploratory data analysis to uncover patterns, trends, and relationships.
-* Formulation and answering of analysis and forecasting questions.
-* Development of sales forecasting models using machine learning techniques.
-* Creation of visual reports and an interactive dashboard using Tableau.
-* Preparation of a final report and presentation summarizing findings and insights.
-
-The project does not include real-time data integration or deployment of models into a production environment.
+* The project focuses on analyzing marketing campaign data across multiple digital platforms.
+* It includes performance evaluation of campaigns run on Facebook, LinkedIn, and Google Ads.
+* The analysis covers sales data in relation to marketing spend across different regions and markets.
+* It involves data cleaning, preprocessing, exploratory data analysis (EDA), and visualization.
+* The scope includes identifying key performance indicators (KPIs) related to marketing effectiveness.
+* The results are intended for strategic decision-making and performance improvementrecommendations.
 
 ---
 
@@ -57,7 +68,7 @@ The project does not include real-time data integration or deployment of models 
 
 **Tasks:**
 
-* Build a data model for the store sales dataset.
+* Build a data model for the Marketing Campain Analytics dataset.
 * Clean and preprocess the data (handle missing values, duplicates, and data inconsistencies).
 * Prepare the dataset for analysis.
 
